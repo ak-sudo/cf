@@ -293,8 +293,8 @@
     },
     "distDirRoot": ".next"
   },
-  "appDir": "/Users/akshatkala/Downloads/geminiaiintegration",
-  "relativeAppDir": "Downloads/geminiaiintegration",
+  "appDir": "/Users/akshatkala/Downloads/CivicFlow",
+  "relativeAppDir": "Downloads/CivicFlow",
   "files": [
     ".next/routes-manifest.json",
     ".next/server/pages-manifest.json",

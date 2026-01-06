@@ -1,0 +1,3 @@
+module.exports=[10320,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(56227);a.n(d("[project]/Downloads/CivicFlow/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},78579,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(56227);a.n(d("[project]/Downloads/CivicFlow/node_modules/next/dist/client/components/builtin/global-error.js"))},11737,a=>{"use strict";a.i(10320);var b=a.i(78579);a.n(b)}];
+
+//# sourceMappingURL=2f97a_next_dist_client_components_builtin_global-error_fc7fc555.js.map

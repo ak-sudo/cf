@@ -1,19 +1,19 @@
 {
   "node": {
-    "4052112dd46b1c5c4fe8417ee46a46260bda7601e8": {
+    "40ef0294bd9a6ced1693a19601d928006c09e5cc97": {
       "workers": {
         "app/auth/login/page": {
-          "moduleId": 9583,
+          "moduleId": 4826,
           "async": false,
           "exportedName": "signIn",
-          "filename": "Downloads/geminiaiintegration/app/auth/actions.ts"
+          "filename": "Downloads/CivicFlow/app/auth/actions.ts"
         }
       },
       "layer": {
         "app/auth/login/page": "action-browser"
       },
       "exportedName": "signIn",
-      "filename": "Downloads/geminiaiintegration/app/auth/actions.ts"
+      "filename": "Downloads/CivicFlow/app/auth/actions.ts"
     }
   },
   "edge": {}
